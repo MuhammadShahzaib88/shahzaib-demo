@@ -1,3 +1,3 @@
-# shahzaib-demo
+# Shahzaib-demo
 This is my first git repository. 
-Auther-Shahzaib
+Author-Shahzaib
